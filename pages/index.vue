@@ -1,6 +1,6 @@
 <template>
   <div>
-    <NuxtTutorial></NuxtTutorial>
+    Страница постов: <nuxt-link to="/posts">Посты</nuxt-link>
   </div>
 </template>
 
